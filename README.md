@@ -23,7 +23,7 @@ src/
 ├── services/        # Business logic
 │   └── userService.ts
 ├── utils/           # Utility functions
-│   └── logger.ts   # Winston logger
+│   └── logger.ts   # pino logger
 └── index.ts         # Main application file
 ```
 
